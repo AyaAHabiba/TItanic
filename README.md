@@ -41,5 +41,5 @@ Kaggle leaderboard score: 77%
 ## Conclusion
 In conclusion, this project provided valuable insights into feature engineering, model selection, and evaluation techniques for classification tasks. The experience gained from participating in this competition helped me enhance my skills in data analysis and machine learning.
 
-(![image](https://github.com/AyaAHabiba/Titanic/assets/100422522/41d10e34-e467-4081-9eaa-cd64ef5ca2e7)
-)
+![image](https://github.com/AyaAHabiba/Titanic/assets/100422522/41d10e34-e467-4081-9eaa-cd64ef5ca2e7)
+
