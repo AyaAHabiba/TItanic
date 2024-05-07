@@ -1,6 +1,6 @@
 # Titanic
 ## Introduction
-**This repository contains my solution for the Titanic: Machine Learning from Disaster competition on Kaggle. In this competition, the task is to predict whether a passenger survived the sinking of the Titanic based on various features such as age, sex, class, and so on.**
+This repository contains my solution for the Titanic: Machine Learning from Disaster competition on Kaggle. In this competition, the task is to predict whether a passenger survived the sinking of the Titanic based on various features such as age, sex, class, and so on.
 ## Files
 
 * train.csv: This file contains the training dataset, which includes features and the target variable (Survived).
